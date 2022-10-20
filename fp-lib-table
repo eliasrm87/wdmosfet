@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name WDSSR)(type KiCad)(uri ${KIPRJMOD}/WDSSR.pretty)(options "")(descr ""))
+)

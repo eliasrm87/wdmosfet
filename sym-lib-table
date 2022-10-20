@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name WDSSR)(type Legacy)(uri ${KIPRJMOD}/WDSSR.lib)(options "")(descr ""))
+  (lib (name WDSSR-rescue)(type Legacy)(uri ${KIPRJMOD}/WDSSR-rescue.lib)(options "")(descr ""))
+)
